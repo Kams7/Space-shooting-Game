@@ -2,6 +2,8 @@
 
 This is a 2 player space shooting game made in my free time by seeing a tutorial ofcourse :)
 
+But tbh the game is simple and nice. Kills time well.
+
 To play this game follow the below steps:
 
 1. Clone this repo </br>
