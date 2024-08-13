@@ -4,6 +4,6 @@ This is a 2 player space shooting game made in my free time by seeing a tutorial
 
 To play this game follow the below steps:
 
-Clone this repo </br>
-Do "pip install pygame" (For me it didn't install directly don't know why. So I created a virtual env and installed) </br>
-and run main file "python3 main.py"
+1. Clone this repo </br>
+2. Do "pip install pygame" - For me it didn't install directly don't know why(Could be skill issue🫠). So I created a virtual env and installed </br>
+3. Run main file "python3 main.py"
